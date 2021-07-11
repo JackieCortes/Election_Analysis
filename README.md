@@ -33,5 +33,12 @@ The analysis of the election show that:
   -  Diana DeGette, who received 73.8% of the vote and 272,892 number of votes.
   
  ## Challenge Overview
+ Analyzing the information with Python is faster than using Excel in performance terms. It takes less than 3 seconds. Also, any issue regarding the amount of data was avoided due to the easy way to consult the information.
+ 
+ Even though the code was difficult to understand at the beginning for the new way to think about cycles in dictionaries, at the end, looking at the results, we can see how powerful it is.
+ 
+ Talking about the required results, the show three candidates and the winner overtook for more than 50% of the other candidates. Undeniably Diana DeGette was the winner.
  
  ## Challenge Summary
+ Writing a code with Python is logical for this amount of information and makes it easier to review information giving good quality outputs in seconds.
+ For this specific congressional election, the winner was: Diana DeGette receiving 73.8% of the vote and 272,892 votes.
